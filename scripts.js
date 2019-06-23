@@ -1,4 +1,5 @@
 /*jshint esversion: 6 */
+/* jshint expr: true */
 
 const cards = document.querySelectorAll('.memory-card'); 
 const newGame = document.querySelector('.restart');
@@ -34,8 +35,7 @@ function flipCard() {
 }
 
 function checkForMatch() {
-    let isMatch = firstCard.dataset.frame === secondCard.dataset.frame
-
+    let isMatch = firstCard.dataset.frame === secondCard.dataset.frame;
     isMatch ? disableCards() : unFlipCards();
 }
 
