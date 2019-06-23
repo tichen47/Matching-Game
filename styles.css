@@ -13,6 +13,10 @@ body {
     text-align: center;
 }
 
+.restart {
+    text-align: center;
+}
+
 .memory-game {
     width: 640px;
     height: 640px;
