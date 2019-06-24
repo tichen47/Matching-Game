@@ -79,7 +79,9 @@ function newBoard() {
     [hasFlippedCard, lockBoard] = [false, false];
     [firstCard, secondCard] = [null, null];
     remainCard = 16;
-    shuffle(); 
+    setTimeout(() => {
+        shuffle();
+    }, 500);
 }
 
 newGame.addEventListener('click', newBoard);
