@@ -28,5 +28,5 @@ Click [this link](http://matching-game.s3-website.us-east-2.amazonaws.com/) to p
 ## Reference
 
 https://www.youtube.com/watch?v=ZniVgo8U7ek
-
+https://chingu.gitbook.io/chingu-handbook-voyage-9/cohort-guide/pre-work/task-3-solo-project
 
