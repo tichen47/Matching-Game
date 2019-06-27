@@ -25,8 +25,9 @@ Click [this link](http://matching-game.s3-website.us-east-2.amazonaws.com/) to p
 
 * A 'New Game' Button gives the player the means to reset the game board.  
 
+* For more information, visit chingu-handbook-voyage-9/cohort-guide/pre-work/task-3-solo-project
+
 ## Reference
 
 https://www.youtube.com/watch?v=ZniVgo8U7ek
-https://chingu.gitbook.io/chingu-handbook-voyage-9/cohort-guide/pre-work/task-3-solo-project
-
+https://chingu.gitbook.io/
